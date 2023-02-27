@@ -1,0 +1,16 @@
+{
+    "name": "get-day",
+    "version": "1.0.0",
+    "description": "根据传入时间返回对应日期格式",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "get-day",
+      "根据传入时间返回对应日期格式"
+    ],
+    "author": "",
+    "license": "ISC"
+  }
+  
